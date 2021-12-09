@@ -1,5 +1,7 @@
 # Final Project IronHack Data Analysis Cohort October 2021
 
+### by Bianca Macedo Richa
+
 #### The Coronavirus pandemic led to over 600.000 deaths in Brazil and this number keeps growing. However,  at a much slower rate due to vaccination. According to BBC Brazil, 30% of fatal cases in the world, is to be found in the country.
 
 
