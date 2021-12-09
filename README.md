@@ -14,15 +14,15 @@
 #### The dataset consists of  3.4 million entries and 10 columns.
 #### It contains the following information:
 
-#### Region - The 5 different regions of the country
-#### State - the names of 27 states and the Federal District
-#### City - the names of the 5300 brazilian cities
-#### Date - the date of the collected information
-#### Epidemiological Week - Counting of weeks since the date of the first registered case in the country
-#### Population - Number of each city's population
-#### Daily New - Daily new cases by city
-#### Acumulated New - Number of acumulated cases by city
-#### Daily deaths - Daily new number of deaths by city
-#### Acumulated Deaths - Number of acumulated death cases  by city
+- Region - The 5 different regions of the country
+- State - the names of 27 states and the Federal District
+- City - the names of the 5300 brazilian cities
+- Date - the date of the collected information
+- Epidemiological Week - Counting of weeks since the date of the first registered case in the country
+- Population - Number of each city's population
+- Daily New - Daily new cases by city
+- Acumulated New - Number of acumulated cases by city
+-  Daily deaths - Daily new number of deaths by city
+- Acumulated Deaths - Number of acumulated death cases  by city
 
-### Disclaimer: The data does not consider different variants.
+#### Disclaimer: The data does not consider different variants.
